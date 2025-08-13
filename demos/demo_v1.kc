@@ -1,0 +1,4 @@
+kullanıcıdan isim al
+ekrana "Hoş geldin [isim]" yaz
+1'den 5'e kadar sayıları yazdır
+eğer [isim] = "Ali" ise ekrana "Özel kullanıcı" yaz
