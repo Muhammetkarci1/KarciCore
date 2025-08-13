@@ -2,7 +2,7 @@
 **Turkish Natural Language → Multi-Language Programming Core**
 
 © 2025 **Muhammed Karcı** — KarcıCore v1.0  
-**License:** MIT
+**License:** AGPL-3.0
 
 KarcıCore is an experimental core system that allows developers to write code in **natural Turkish language** and automatically translates it into **C#, Python, Java, SQL** and more — with real-time syntax, punctuation, and structure handling.
 
@@ -18,15 +18,15 @@ KarcıCore is an experimental core system that allows developers to write code i
 
 ## 📜 Example
 **Input (Turkish)**  
-```
+
 1'den 5'e kadar sayıları yazdır
-```
+
 **Output (C#)**  
-```csharp
+csharp
 for (int i = 1; i <= 5; i++) {
     Console.WriteLine(i);
 }
-```
+
 
 ---
 
@@ -40,6 +40,12 @@ for (int i = 1; i <= 5; i++) {
 
 ## 📌 Version
 **KarcıCore v1.0** – First public prototype.
+
+## Installation
+
+git clone https://github.com/Muhammetkarci1/KarciCore.git
+cd KarciCore
+
 
 ---
 
